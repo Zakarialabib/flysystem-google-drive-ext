@@ -1,5 +1,5 @@
 {
-    "name": "masbug/flysystem-google-drive-ext",
+    "name": "zakarialabib/flysystem-google-drive-ext",
     "description": "Flysystem adapter for Google Drive with seamless virtual<=>display path translation",
     "keywords": [
         "flysystem",
@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Masbug\\Flysystem\\": "src"
+            "Zakarialabib\\Flysystem\\": "src"
         }
     },
     "conflict": {
