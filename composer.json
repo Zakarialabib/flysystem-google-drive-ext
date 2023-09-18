@@ -31,13 +31,7 @@
         "psr-4": {
             "Zakarialabib\\Flysystem\\": "src"
         }
-    },
-    "conflict": {
-        "google/apiclient": "*"
-    },
-    "replace": {
-        "google/apiclient": "2.2.1"
-    },
+    },  
     "scripts": {
         "pre-autoload-dump": "Google\\Task\\Composer::cleanup",
         "post-install-cmd": [
